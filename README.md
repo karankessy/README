@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on **@thinkseq**
 
+- 🌱 I’m currently learning Smart Contracts and Dev Technologies  
+
+- ❓ Ask me about anything related to cybersecurity and related technologies  
+  
+- ⚡ Fun fact: I use tabs over spaces  
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
