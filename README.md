@@ -1,7 +1,18 @@
-<h1 align="center">Hi, I'm Karan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankessy&label=Profile%20views&color=0e75b6&style=flat" alt="karankessy" /> </p>
+
+<!-- <h1 align="center">Hi, I'm Karan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankessy&label=Profile%20views&color=0e75b6&style=flat" alt="karankessy" /> </p> --!>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karankessy" alt="karankessy" /></a> </p> !-->
+
+
+   <p align="left">
+     <b>
+       <pwn>🔴 🟡 🟢 </pwn>
+    </b>
+   </p>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F71C&center=true&vCenter=true&random=false&width=435&lines=root%40whited%3A+Hello+World!)](https://git.io/typing-svg)
+  
 
 <p align="left"> <a href="https://twitter.com/karankessy" target="blank"><img src="https://img.shields.io/twitter/follow/karankessy?logo=twitter&style=for-the-badge" alt="karankessy" /></a> </p>
 
