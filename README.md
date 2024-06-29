@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **@thinkseq**
 
-- 🌱 I’m currently learning Smart Contracts and Dev Technologies  
+- 🌱 Into Security and Web Technologies  
 
 - ❓ Ask me about anything related to cybersecurity and related technologies  
   
